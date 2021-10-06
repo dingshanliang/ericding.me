@@ -59,7 +59,7 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
   gitRepo = ""
 
   # site info (optional)                                  # 站点信息（可选，不需要的可以直接注释掉）
-  logoTitle = "Learn, share and exchange"        # default: the title value    # 默认值: 上面设置的title值
+  logoTitle = "归去来馆"        # default: the title value    # 默认值: 上面设置的title值
   keywords = ["学习", "分享","交流"]
   description = "个人的成长小站"
 
