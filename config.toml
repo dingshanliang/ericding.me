@@ -1,7 +1,7 @@
 baseURL = "http://infallible-kepler-6f0889.netlify.com/"
 languageCode = "zh-cn"
 defaultContentLanguage = "zh-cn"                             # en / zh-cn / ... (This field determines which i18n file to use)
-title = "Learn, share and exchange"
+title = "归去来馆"
 preserveTaxonomyNames = true
 enableRobotsTXT = true
 enableEmoji = true
