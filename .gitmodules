@@ -1,3 +1,3 @@
-[submodule "themes/even @ 5646979"]
-	path = themes/even @ 5646979
+[submodule "themes/even"]
+	path = themes/even
 	url = https://github.com/olOwOlo/hugo-theme-even.git
