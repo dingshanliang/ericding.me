@@ -32,15 +32,15 @@ author: "Eric Ding"
 ### Alfred Workflow准备
 首先是配置好Alfred Workflow，步骤如下：
 1. 点击左下角的加号，添加`script fileter`;
-	![[Pasted image 20211015105103.png]]
-	![[Pasted image 20211015105152.png]]
+	![](https://raw.githubusercontent.com/dingshanliang/img/main/Pasted%20image%2020211015105103.png?token=ACT5JNQPCPOCTKMIPBSBKK3BNEFVY)
+	![](https://raw.githubusercontent.com/dingshanliang/img/main/Pasted%20image%2020211015105152.png?token=ACT5JNVF6ZV7BP4WP4CYRCDBNEFV6)
 2. 基本信息配置； 
-	![[Pasted image 20211015105330.png]]
+	![](https://raw.githubusercontent.com/dingshanliang/img/main/Pasted%20image%2020211015105330.png?token=ACT5JNSGB2EEROW2O52RAG3BNEFWG)
 3. 配置script fileter；
-	![[Pasted image 20211015105558.png]]
+	![](https://raw.githubusercontent.com/dingshanliang/img/main/Pasted%20image%2020211015105558.png?token=ACT5JNQ64Y5AEFQW7C7Q6UDBNEFWQ)
 ### 安装 Alfred workflow
 从 [GitHub releases](https://github.com/deanishe/alfred-workflow/releases)下载`alfred-workflow-X.X.X.zip`，并将其解压到我们自己workflow的根目录里。（在自己workflow上右键打开根目录）
-![[Pasted image 20211015110627.png]]
+![](https://raw.githubusercontent.com/dingshanliang/img/main/Pasted%20image%2020211015110627.png?token=ACT5JNSFSZGIAFAMQD3TE3LBNEFWY)
 ### 编写代码
 ```python
 #!/usr/bin/python
@@ -94,14 +94,20 @@ if __name__ == '__main__':
 
 ### 更新代码到script filter
 将代码粘贴到script filter中：
-![[Pasted image 20211015115517.png]]
+![](https://raw.githubusercontent.com/dingshanliang/img/main/Pasted%20image%2020211015115517.png?token=ACT5JNQCLOZKJ36O6DHXZ4TBNEFXE)
 
 ### 成果验证
 - 在obsidian的Blog目录下随便写一个测试blog
 - 唤起Alfred输入`blogupdate`
 - 查看是否更新：
 
-![[Pasted image 20211015115839.png]]
-![[Pasted image 20211015115812.png]]
+![](https://raw.githubusercontent.com/dingshanliang/img/main/Pasted%20image%2020211015115839.png?token=ACT5JNVTXJ262GOTL3B3FZ3BNEFEQ)
+![](https://raw.githubusercontent.com/dingshanliang/img/main/20211015130825.png?token=ACT5JNVYLVJ3FLOO75NAMPLBNEGQU)
+
+
 
 大功告成！
+
+> 本篇内容就是采用这种方式更新的。
+
+
